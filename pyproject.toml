@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "fireguard-integration-tests"
+version = "0.1.0"
+description = "Integration tests for the FireGuard project."
+authors = ["Håkon <69848281+h587916@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pytest = "^8.1.1"
+requests = "^2.31.0"
+httpx = "^0.27.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
