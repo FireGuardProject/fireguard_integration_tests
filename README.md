@@ -1,3 +1,3 @@
-# In progress
+# Integration tests for Fireguard Service
 
-testing
+This is the integrations tests for the Fireguard cloud service, testing if all the microservices works together as intended. 
